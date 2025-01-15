@@ -1,8 +1,8 @@
-# 🎬 Movie Mania Web Application🍿
+# 🎬 Movie Hub Web Application🍿
 
-Welcome to Movie Mania, your ultimate destination for all movies! This project is built using React, Tailwind CSS, and integrates with the TMDb API for fetching movie data.
+Welcome to Movie Hub, your ultimate destination for all movies! This project is built using React, Tailwind CSS, and integrates with the TMDb API for fetching movie data and Firebase to make authentication with google authentication.
 
-![Movie Mania](./thumbnail.jpg)
+![Movie Hub](./thumbnail.jpg)
 
 ## ✨Features
 
